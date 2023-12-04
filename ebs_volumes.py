@@ -17,3 +17,5 @@ for volume in response['Volumes']:
         #volume_all.append(volume_id)   
 
     print(volume_id)
+
+# In the same way, we can create progs for getting EC2 instances, snapshots and other resources etc
